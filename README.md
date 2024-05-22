@@ -10,8 +10,8 @@ In this course, You will practice more labs of Pandas. This will help you to mas
 
 ## Scenarios
 
-|   Index | Name                                              | Difficulty   | URL                                                                        |
-|---------|---------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                             | Difficulty   | URL                                                                        |
+|---------|--------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Pandas Append Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68576'>Start Lab</a>        |
 |      02 | 📖 Pandas DataFrame Abs Method                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68577'>Start Lab</a>        |
 |      03 | 📖 Pandas DataFrame Align Function                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68579'>Start Lab</a>        |
