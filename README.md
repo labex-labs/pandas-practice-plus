@@ -110,6 +110,7 @@ In this course, You will practice more labs of Pandas. This will help you to mas
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
 
