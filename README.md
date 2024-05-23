@@ -10,7 +10,7 @@ In this course, You will practice more labs of Pandas. This will help you to mas
 
 ## Scenarios
 
-|   Index | Name                                             | Difficulty   | URL                                                                        |
+|   Index | Name                                             | Difficulty   | Practice                                                                   |
 |---------|--------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Pandas Append Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68576'>Start Lab</a>        |
 |      02 | 📖 Pandas DataFrame Abs Method                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/68577'>Start Lab</a>        |
@@ -107,4 +107,9 @@ In this course, You will practice more labs of Pandas. This will help you to mas
 |      93 | 📖 Using Sparse Structures in Pandas              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65454'>Start Lab</a>        |
 |      94 | 📖 Data Reshaping With Pandas                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65452'>Start Lab</a>        |
 |      95 | 📖 Introduction to Pandas                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65440'>Start Lab</a>        |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
 
